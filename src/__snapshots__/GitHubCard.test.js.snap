@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard component snapshot test 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="https://avatars.githubusercontent.com/u/147457991?v=4"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      JefferyG00
+    </div>
+    <p
+      className="card-text"
+    >
+      i game more than i study LOL
+    </p>
+    <a
+      className="btn btn-primary"
+      disabled={false}
+      href="https://github.com/JefferyG00"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+      target="_blank"
+    >
+      Go to GitHub
+    </a>
+  </div>
+</div>
+`;
